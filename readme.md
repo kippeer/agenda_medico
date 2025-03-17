@@ -130,12 +130,3 @@ The application includes global exception handling for:
 - Validation errors
 - General application errors
 
-## Future Improvements
-
-1. Add email notifications for appointments
-2. Implement more sophisticated scheduling rules
-3. Add support for recurring appointments
-4. Implement doctor working hours
-5. Add appointment reminders
-6. Implement patient medical history
-7. Add support for online consultations
